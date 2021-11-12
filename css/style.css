@@ -1470,6 +1470,16 @@ h3 {
   margin-top: 31px;
 }
 
+.slider_area .single_slider .slider_text h4 {
+  font-size: 30px;
+  letter-spacing: 0;
+  font-weight: 300;
+  line-height: 40px;
+  margin-bottom: 30px;
+  color: #fffefc;
+  margin-top: 31px;
+}
+
 /* line 69, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h3 span {
   font-weight: 700;
@@ -2455,7 +2465,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_contact_action.scss */
 .contact_action_area {
-  background-image: url(../img/banner/self-storage.png);
+  background-image: url(../img/banner/cameras.jpg);
   position: relative;
   z-index: 0;
   padding: 138px 0;
